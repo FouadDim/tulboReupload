@@ -1,0 +1,3 @@
+## Return & Refund policy:
+
+Unfortunately, Tulbo doesn't have a return or refund system since all of our suppliers work on the basic principle of on-demand supply. However, to give our customers the best experience possible, we added a feedback section. In case of any unpleasing product bought from Tulbo, the customer can use the feedback option to give us his/her opinion, which in turn, helps us improve our service. For any comment, question, or feedback you can always contact our customer service <a href="mailto:service.tulbo@gmail.com">service.tulbo@gmail.com</a> or via our <a href="/blog/contact">contact form </a>( Expected reply time: 2-7 business days ).

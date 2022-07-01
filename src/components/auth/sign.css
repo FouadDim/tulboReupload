@@ -1,0 +1,225 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+
+.signup {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.allup {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-shadow: 0px 0px 10px rgb(189, 189, 189);
+  height: 600px;
+  border-radius: 5px;
+}
+
+.allup2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-shadow: 0px 0px 10px rgb(189, 189, 189);
+  height: 520px;
+  border-radius: 5px;
+}
+
+.upform {
+  /* border: 1px solid black;  */
+  width: 90%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 100%;
+  /* border: 1px solid black; */
+  padding: 10px 10px;
+}
+
+.uphead {
+  /* border: 1px solid black; */
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 5px;
+}
+
+.selector {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0px;
+}
+
+.inpup1 {
+  border: 1px solid rgb(173, 173, 173);
+  background-color: rgb(240, 240, 240);
+  padding: 15px 13px;
+  border-radius: 5px;
+  outline: none;
+  font-size: 16px;
+}
+
+.svgcon {
+  border-bottom: 1px solid rgb(219, 219, 219);
+  width: 90%;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.upbtn {
+  border: none;
+  height: 70px;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  transition: 0.3s ease;
+}
+
+.upbtn:hover {
+  background-color: darkred;
+}
+
+.upearly {
+  margin-top: 70px;
+  color: grey;
+}
+
+.account {
+  height: 50vh;
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainaccount {
+  /* border: 1px solid red; */
+}
+
+.mainaccount > h1 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 30px;
+  font-size: 40px;
+}
+
+.mainaccount > h1 > p {
+  color: red;
+}
+
+.user {
+  background-color: rgb(235, 235, 235);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn2301 {
+  border: none;
+  background-color: red;
+  color: white;
+  font-size: 15px;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+.btn2301:hover {
+  background-color: darkred;
+}
+
+#btn01001 {
+  height: 150px;
+}
+
+.account {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+}
+
+#basic-button {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 16px;
+  color: rgb(26, 26, 26);
+  background-color: rgba(231, 231, 231, 0.308);
+}
+
+@media screen and (max-width: 1000px) {
+  .account {
+    justify-content: flex-start;
+    gap: 20px;
+    margin-top: 40px;
+  }
+
+  #basic-button {
+    font-size: 14px;
+  }
+
+  .user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .mainaccount > h1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .mainaccount > h1 > p {
+    color: red;
+  }
+
+  .allup {
+    width: 95%;
+    margin-top: -80px;
+  }
+
+  .allup2 {
+    width: 95%;
+    margin-top: -120px;
+  }
+
+  .user > h2 {
+    font-size: 15px;
+  }
+}
+
+#form01001 {
+  height: 570px;
+  width: 90%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 10px 10px;
+}
