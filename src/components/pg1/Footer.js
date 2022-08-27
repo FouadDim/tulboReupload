@@ -191,7 +191,7 @@ function Footer() {
         </div>
         <div className="three">
           <span style={{ color: "red" }}>Tulbo® &nbsp;</span> {dt.getFullYear()}
-          , where money buys happiness. (Done by F.D)
+          , where money buys happiness. ( Discontinued )
         </div>
       </div>
     </div>
